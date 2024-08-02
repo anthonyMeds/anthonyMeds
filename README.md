@@ -19,7 +19,7 @@ Estou constantemente buscando expandir meu conhecimento e aprimorar minha habili
 - **Spring Security**: JWT, OAuth2, OpenFeign.
 - **Mensageria**: RabbitMq.
 - **Cloud**: AWS
-- **Docker e Kubernets**
+- **Docker**
 - **NoSql** : Mongo
 
 ### 💼 Experiência
